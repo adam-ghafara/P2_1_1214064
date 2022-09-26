@@ -1,0 +1,8 @@
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\obj\Debug\P2_1_1214064.csproj.AssemblyReference.cache
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\obj\Debug\P2_1_1214064.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\obj\Debug\P2_1_1214064.csproj.CoreCompileInputs.cache
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\bin\Debug\P2_1_1214064.exe.config
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\bin\Debug\P2_1_1214064.exe
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\bin\Debug\P2_1_1214064.pdb
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\obj\Debug\P2_1_1214064.exe
+C:\Users\ADAM GHAFARA\source\repos\P2_1_1214064\P2_1_1214064\obj\Debug\P2_1_1214064.pdb
