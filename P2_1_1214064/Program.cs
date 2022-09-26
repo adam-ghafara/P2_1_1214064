@@ -10,22 +10,27 @@ namespace P2_1_1214064
     {
         static void Main(string[] args)
         {
+            // Input Angka
             Console.WriteLine("Masukkan Angka pertama yang ingin di hitung!");
             int angka1;
             angka1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Masukkan Angka kedua yang ingin di hitung!");
             int angka2;
             angka2 = int.Parse(Console.ReadLine());
+
+            // variable operator
             int jumlah;
             int kurang;
             int kali;
             int bagi;
 
+            // operator
             jumlah = angka1 + angka2;
             kurang = angka1 - angka2;
             kali = angka1 * angka2;
             bagi = angka1 / angka2;
 
+            // Hasil Output
             Console.WriteLine("Inilah beberapa Output dari Operator yang dilakukan.");
             Console.WriteLine($"Angka Pertama = {angka1}");
             Console.WriteLine($"Angka Kedua = {angka2}");
