@@ -38,6 +38,9 @@ namespace P2_1_1214064
             Console.WriteLine($" {angka1} - {angka2} = {kurang} ");
             Console.WriteLine($" {angka1} * {angka2} = {kali} ");
             Console.WriteLine($" {angka1} / {angka2} = {bagi} ");
+
+            Console.WriteLine("Press Enter To Continue...");
+            Console.Read();
         }
     }
 }
